@@ -1,0 +1,3 @@
+# Use a fresh virtual environment on 64-bit Raspberry Pi OS.
+# Let pip resolve ARM CPU packages; do not use the desktop CUDA lockfile.
+ultralytics==8.4.174
